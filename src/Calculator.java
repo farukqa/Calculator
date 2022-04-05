@@ -5,7 +5,8 @@ public class Calculator {
   
   public static void main(String[] args){
 
-    add(4,5);
+   double c =  add(4,5);
+   System.out.println(c);
   }
 }
 
